@@ -1,3 +1,4 @@
+
 class Lamp {  
     boolean isOn;
     void turnOn() {
