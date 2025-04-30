@@ -1,6 +1,4 @@
 <cfjava handle="JavaCode">
-
-
     public class CodeTest {
         public String firstParameter;
         public String SecondParamter;
