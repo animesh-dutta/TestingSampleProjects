@@ -1,4 +1,4 @@
-<!--- Author:Animesh Dutta (Ananya Birla) --->     
+<!--- Author:Animesh Dutta (Ananya Birla) --->      
 There are different type of web applications and software.There are some software
 which we use in desktop,laptop and other devices.We use millions of websites in
 different devices.It is very important that we test the software and applications
